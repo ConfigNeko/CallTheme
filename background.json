@@ -1,16 +1,37 @@
 {
-  "background": [
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_bg_choose_image.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_1.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_2.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_3.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_4.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_5.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_6.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_7.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_8.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_9.png",
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_10.png"
-    
+  [
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_bg_choose_image.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_1.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_2.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_3.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_4.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_5.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_6.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_7.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_8.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_9.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/background_theme/img_background_10.png"
+    }
   ]
 }
